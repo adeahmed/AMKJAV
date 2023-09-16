@@ -1,4 +1,4 @@
-package Week5.Task1Copilot;
+package Week5.task1Copilot;
 // In a new project, write a `Calculator` class that has the ability to sum positive integers. A negative integer should throw an exception.
 
 // The class acts as the model in the MVC pattern. It should have the following methods:
