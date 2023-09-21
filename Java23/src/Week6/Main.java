@@ -3,8 +3,8 @@ package Week6;
 public class Main {
     public static void main(String[] args) {
         try {
-            Even even = new Even(50);
-            Odd odd = new Odd(50);
+            Even even = new Even(5);
+            Odd odd = new Odd(5);
 
             even.start();
             odd.start();
