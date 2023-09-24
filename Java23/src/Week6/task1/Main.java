@@ -1,4 +1,6 @@
-package Week6;
+package Week6.task1;
+
+import Week6.task1.Even;
 
 public class Main {
     public static void main(String[] args) {

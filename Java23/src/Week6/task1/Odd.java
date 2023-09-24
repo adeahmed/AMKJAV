@@ -1,4 +1,4 @@
-package Week6;
+package Week6.task1;
 
 public class Odd extends Thread {
     private int count = 0;
