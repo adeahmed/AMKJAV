@@ -1,4 +1,4 @@
-package Week6.task1;
+package Week6.Synchronization.task1;
 
 public class Even extends Thread {
     private int count = 0;

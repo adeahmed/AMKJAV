@@ -1,6 +1,6 @@
-package Week6.task1;
+package Week6.Synchronization.task1;
 
-import Week6.task1.Even;
+import Week6.Synchronization.task1.Even;
 
 public class Main {
     public static void main(String[] args) {

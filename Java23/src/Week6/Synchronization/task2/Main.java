@@ -1,4 +1,4 @@
-package Week6.task2;
+package Week6.Synchronization.task2;
 public class Main {
     public static void main(String[] args) {
         int[] taulukko = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };

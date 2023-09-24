@@ -1,4 +1,4 @@
-package Week6.task2;
+package Week6.Synchronization.task2;
 
 public class Laskuri extends Thread {
     private int summa = 0;
