@@ -95,8 +95,8 @@ public class DictionaryView extends Application {
         mainContainer.getChildren().addAll(titleLabel, currencyContainer, errorLabel, gridPane, helpContainer);
         errorLabel.getStyleClass().add("error-label");
 
-        Scene scene = new Scene(mainContainer, 500, 400);
-        scene.getStylesheets().add("styles.css"); // Lisää tyylitiedoston nimi tarvittaessa
+        Scene scene = new Scene(mainContainer, 500, 500);
+        scene.getStylesheets().add("Styles.css"); // Lisää tyylitiedoston nimi tarvittaessa
 
         stage.setScene(scene);
         stage.show();
