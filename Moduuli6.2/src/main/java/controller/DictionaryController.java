@@ -1,6 +1,6 @@
-package Controller;
-import Model.DictionaryModel;
-import View.DictionaryView;
+package controller;
+import model.DictionaryModel;
+import view.DictionaryView;
 
 
 

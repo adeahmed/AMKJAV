@@ -1,7 +1,7 @@
-package Controller;
+package controller;
 
-import Model.DictionaryModel;
-import View.DictionaryView;
+import model.DictionaryModel;
+import view.DictionaryView;
 
 public class DictionaryController {
     private DictionaryView model;

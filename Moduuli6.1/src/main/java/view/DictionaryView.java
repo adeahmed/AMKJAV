@@ -1,6 +1,6 @@
-package View;
+package view;
 import javafx.application.Application;
-import Controller.DictionaryController;
+import controller.DictionaryController;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.stage.Stage;
