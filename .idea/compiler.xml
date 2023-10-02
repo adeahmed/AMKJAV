@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Moduuli6.2" />
+        <module name="Moduuli7.1" />
         <module name="Moduuli6.1" />
+        <module name="Luento7.2" />
         <module name="Moduuli6.4" />
         <module name="Moduuli6.3" />
       </profile>
