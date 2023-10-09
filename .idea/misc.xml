@@ -11,11 +11,14 @@
         <option value="$PROJECT_DIR$/Moduuli7.1/pom.xml" />
         <option value="$PROJECT_DIR$/Luento7.2/pom.xml" />
         <option value="$PROJECT_DIR$/Moduuli7.2/pom.xml" />
+        <option value="$PROJECT_DIR$/Moduuli7.3/pom.xml" />
+        <option value="$PROJECT_DIR$/Moduuli7.4/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Luento7.2/pom.xml" />
+        <option value="$PROJECT_DIR$/Moduuli7.4/pom.xml" />
       </set>
     </option>
   </component>
