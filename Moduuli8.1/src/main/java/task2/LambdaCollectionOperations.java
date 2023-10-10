@@ -31,7 +31,7 @@ public class LambdaCollectionOperations {
         System.out.println("\nDoubled Odd Numbers:");
         doubledOddNumbers.forEach(System.out::println);
 
-       
+
         int sum = numbers.stream()
                 .mapToInt(Integer::intValue)
                 .sum();
